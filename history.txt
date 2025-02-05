@@ -1,0 +1,500 @@
+   50  git add
+   51  git add .
+   52  git commit -m "Updated my index file with an arbritrary p element to see if site works" 
+   53  git push origin main
+   54  git add .
+   55  git commit -m "Added sections(About me...) and added context to each"
+   56  git push origin main
+   57  git status
+   58  git add .
+   59  git commit -m "Could not see my changes on the website from the last commit so trying again"
+   60  git push origin main
+   61  git clone git@github.com:Umuzi-org/siphindiwe-zungu-429-bootcamp-writing-assignment.git
+   62  npx jasmine init
+   63  touch spec/example.spec.js
+   64  code example.spec.js
+   65  npx jasmine
+   66  touch spec/idTest.spec.js
+   67  npx jasmine
+   68  npx jasmine init
+   69  touch spec/idTest.spec.js
+   70  npx jasmine
+   71  touch spec/idTest.spec.js
+   72  npx jasmine
+   73  touch spec/idTest.spec.js
+   74  npx jasmine
+   75  cd c:/Users/Siphi
+   76  mkdir git-basic-exercises
+   77  cd git-basic-exercises
+   78  git init
+   79  ls -a
+   80  git status
+   81  touch README.md
+   82  ls -a
+   83  git status
+   84  git log
+   85  git add
+   86  git add .
+   87  git status
+   88  git status
+   89  git commit -m "initial commit"
+   90  git log
+   91  q
+   92  git q
+   93  q
+   94  nano README.md
+   95  cat README.md
+   96  git status
+   97  git commit -m "second commit"
+   98  git add
+   99  git add .
+  100  git commit -m "second commit"
+  101  nano README.md
+  102  cat README.md
+  103  git add .
+  104  git commit -m "third commit"
+  105  git log
+  106  git checkout 5082a36dd8b28531e7c578ddf622b6333fe656e3
+  107  cat README.md
+  108  git checkout main
+  109  cat README.md
+  110  git checkout main
+  111  git checkout 5082a36dd8b28531e7c578ddf622b6333fe656e3
+  112  git checkout master
+  113  cat README.md
+  114  git branch
+  115  git checkout milkshake-flavours
+  116  git branch milkshake-flavours
+  117  git branch
+  118  git branch
+  119  git checkout milkshake-flavours
+  120  git branch
+  121  nano milkshakes.md
+  122  git status
+  123  git add .
+  124  git commit -m "added initial flavours"
+  125  git log
+  126  git checkout master
+  127  git branch history
+  128  git log
+  129  git branch
+  130  history > history.txt
+  131  git add .
+  132  git commit -m "added history"
+  133  git log
+  134  nano milkshakes.md
+  135  cat milkshakes.ms
+  136  cat milkshakes.md
+  137  git add .
+  138  git commit -m "added initial flavours"
+  139  git log
+  140  checkout milkshake-flavours
+  141  git checkout milkshake-flavours
+  142  git log
+  143  git checkout master
+  144  nano README.md
+  145  git add .
+  146  git commit -m "random readme changes"
+  147  git checkout history
+  148  cat README.md
+  149  rm README.md
+  150  echo "booya" > README.md
+  151  rm README.md
+  152  echo "booya" > README.md
+  153  git add .
+  154  git commit -m "rewrote readme"
+  155  git checkout main
+  156  git checkout master
+  157  git checkout master
+  158  ls
+  159  git log
+  160  git checkout milkshake-flavours
+  161  ls
+  162  git log
+  163  git checkout history
+  164  ls
+  165  history > history.txt
+  166  ls
+  167  git log
+  168  git add .
+  169  git commit -m "added history"
+  170  git log
+  171  git checkout main
+  172  git checkout master
+  173  git merge milkshake-flavours
+  174  git checkout milkshake-flavours
+  175  nano milkshakes.md
+  176  git add milkshakes.md
+  177  git commit
+  178  merge milkshake-flavours
+  179  git merge milkshake-flavours
+  180  git checkout master
+  181  cd c:\Users\Siphi
+  182  cd C:\Users\Siphi
+  183  cd C:\Users\Siphi\git-basic-exercises
+  184  cd:/Users/Siphi/git-basic-exercises
+  185  cd /Users/Siphi/git-basic-exercises
+  186  cd C:\Users\Siphi\git-basic-exercises
+  187  cd /c/Users/Siphi/git-basic-exercises
+  188  merge milkshake-flavours
+  189  git merge milkshake-flavours
+  190  git add .
+  191  git commit -m "Merge milkshake conflict resolution changes"
+  192  ls
+  193  git log
+  194  git checkout history
+  195  git log
+  196  git milkshake-flavours
+  197  git checkout milkshake-flavours
+  198  git log
+  199  git checkout milkshake-flavours
+  200  git checkout history
+  201  git merge master
+  202  nano history.txt
+  203  cd /c/Users/Siphi/git-basic-exercises
+  204  nano README.md
+  205  git add README.md
+  206  git commit -m "Fixed conflict"
+  207  nano history.txt
+  208  git add history.txt
+  209  git commit -m "Fixing conflicts on both readme and history"
+  210  git log
+  211  ls
+  212  git remote add origin https://github.com/Siphindiwe/git-basic-exercises.git
+  213  git branch -M main
+  214  git push -u origin main
+  215  npx jasmine init
+  216  touch spec/idTest.spec.js
+  217  npx jasmine
+  218  npx jasmine
+  219  jasmine init
+  220  npx jasmine init
+  221  touch spec/idTest.spec.js
+  222  npx jasmine
+  223  npx jasmine init
+  224  touch spec/idTest.spec.js
+  225  npx jasmine
+  226  npx jasmine init
+  227  touch spec/idTest.spec.js
+  228  npx jasmine
+  229  npx jasmine
+  230  npx jasmine init
+  231  touch spec\idTest.spec.js
+  232  npx jasmine
+  233  npx jasmine init
+  234  touch spec/idTest.spec.js
+  235  npx jasmine
+  236  touch spec/idTest.spec.js
+  237  npx jasmine
+  238  touch spec/idTest.spec.js
+  239  npx jasmine
+  240  touch spec/idTest.spec.js
+  241  npx jasmine
+  242  touch spec/idTest.spec.js
+  243  npx jasmine
+  244  touch spec/idTest.spec.js
+  245  npx jasmine
+  246  touch spec/idTest.spec.js
+  247  npx jasmine
+  248  touch spec/idTest.spec.js
+  249  npx jasmine
+  250  touch spec/idTest.spec.js
+  251  npx jasmine
+  252  touch spec/idTest.spec.js
+  253  npx jasmine
+  254  touch spec/idTest.spec.js
+  255  npx jasmine
+  256  touch spec/idTest.spec.js
+  257  npx jasmine
+  258  npm jasmine init
+  259  npx jasmine init
+  260  touch/idTest.spec.js
+  261  touch spec/idTest.spec.js
+  262  npx jasmine
+  263  touch spec/idTest.spec.js
+  264  npx jasmine
+  265  touch spec/idTest.spec.js
+  266  npx jasmine
+  267  npx jasmine init
+  268  touch spec/idTest.spec.js
+  269  npx jasmine
+  270  npx jasmine init
+  271  touch spec/idTest.spec.js
+  272  npx jasmine
+  273  touch spec/idTest.spec.js
+  274  npx jasmine
+  275  touch spec/idTest.spec.js
+  276  npx jasmine
+  277  touch spec/idTest.spec.js
+  278  npx jasmine
+  279  touch spec/idTest.spec.js
+  280  npx jasmine
+  281  touch spec/idTest.spec.js
+  282  npx jasmine
+  283  touch spec/idTest.spec.js
+  284  npx jasmine
+  285  touch spec/idTest.spec.js
+  286  npx jasmine
+  287  git clone https://github.com/Umuzi-org/siphindiwe-zungu-606-tilde-project-tutorial-how-repo-projects-work-.git
+  288  cd siphindiwe-zungu-606-tilde-project-tutorial-how-repo-projects-work-
+  289  git checkout Siphindiwe-patch-1
+  290  touch important.md
+  291  code important.md
+  292  git status
+  293  cat important.md
+  294  fit add .
+  295  git add .
+  296  git commit -m "Added text on empty important file"
+  297  git push origin Siphindiwe-patch-1
+  298  npx jasmine init
+  299  npx jasmine init
+  300  touch spec/idTest.spec.js
+  301  npx jasmine
+  302  npx jasmine init
+  303  touch spec/password.spec.js
+  304  npx jasmine
+  305  touch spec/password.spec.js
+  306  npx jasmine
+  307  rm spec/idTest.spec.js
+  308  touch spec/password.spec.js
+  309  npx jasmine
+  310  touch spec/password.spec.js
+  311  npx jasmine
+  312  npx jasmine
+  313  npx jasmine
+  314  npx jasmine
+  315  npx jasmine
+  316  npx jasmine
+  317  npx jasmine
+  318  npx jasmine
+  319  npx jasmine
+  320  npx jasmine
+  321  npx jasmine
+  322  npx jasmine
+  323  mkdir git-basic-exercises-2
+  324  cd git-basic-exercises-2
+  325  ls -a
+  326  git init
+  327  cd C:\Users\Siphi\Level One challenges
+  328  cd c:/Users/Siphi/Level One Challenges
+  329  cd Users/Siphi/Level_One_challenges
+  330  cd c:/Users/Siphi/Level_One_challenges
+  331  git clone https://github.com/Umuzi-org/siphindiwe-zungu-219-level-1-programming-katas-javascript
+  332  cd siphindiwe-zungu-219-level-1-programming-katas-javascript
+  333  ls
+  334  git branch
+  335  git add task1.js
+  336  git add task1.js
+  337  cd c:/Users/Siphi/Level_One_challenges
+  338  git add task1.js
+  339  git add .
+  340  git rm --cached Level_One_challenges/siphindiwe-zungu-219-level-1-programming-katas-javascript
+  341  git status
+  342  touch task1.js
+  343  git code task1.js
+  344  code task1.js
+  345  git add .
+  346  git commit -m "Task 1 of Level One"
+  347  git push origin master
+  348  CD ~/git-basic-exercises
+  349  cd ~/git-basic-exercises
+  350  git status
+  351  git log
+  352  cd ../
+  353  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  354  git branch
+  355  cd a-repo-to-clone
+  356  git branch
+  357  git branch
+  358  git branch -a
+  359  checkout a-branch-with-a-few-commits
+  360  git checkout a-branch-with-a-few-commits
+  361  git remote -v
+  362  git log
+  363  cd ~/git-basic-exercises
+  364  git log
+  365  cd
+  366  mkdir this-will-be-another-repo
+  367  cd this-will-be-another-repo
+  368  git init
+  369  touch README.md
+  370  git add .
+  371  git commit -m "A new empty README file"
+  372  cd ~/git-basic-exercises
+  373  git log
+  374  touch ignore-me.db
+  375  git status
+  376  nano .gitignore
+  377  cat .gitignore
+  378  git status
+  379  mkdir large-directory-that-should-be-local-only
+  380  cd large-directory-that-should-be-local-only
+  381  touch readme.md
+  382  nano readme.md
+  383  cat readme.md
+  384  cd ...
+  385  cd ~/git-basic-exercises
+  386  git status
+  387  nano .gitignore
+  388  git status
+  389  git add .gitignore
+  390  git commit -m "added .gitignore"
+  391  git push
+  392  cd Umuzi-org/siphindiwe-zungu-219-level-1-programming-katas-javascript
+  393  ls
+  394  cd siphindiwe-zungu-219-level-1-programming-katas-javascript
+  395  ls
+  396  code task7.js
+  397  git add .
+  398  cat task7.js
+  399  checkout task/6
+  400  git checkout task/6
+  401  git commit --m "Removing the function calls in task 7"
+  402  cat task7.js
+  403  git checkout task/6
+  404  ls
+  405  cat task6.js
+  406  code task6.js
+  407  git add .
+  408  git commit --m "Removed erroneous function calls in task 6"
+  409  cat task6.js
+  410  git checkout task/5
+  411  ls
+  412  code task5.js
+  413  git add .
+  414  git commit --m "Remove function calls in task 5"
+  415  git checkout task/4
+  416  code task4.js
+  417  git add .
+  418  git commit --m "Removed function calls from task4"
+  419  cat task4.js
+  420  git checkout task/3
+  421  code task3.js
+  422  git add .
+  423  git commit --m "Remove function call in task 3"
+  424  cat task3.js
+  425  git checkout task/2
+  426  cat task2.js
+  427  code task2.js
+  428  git add .
+  429  git commit --m "remove task2 function calls"
+  430  git checkout task/1
+  431  code task1.js
+  432  git add .
+  433  git commit --m "Finally removed calls in task 1"
+  434  cat task1.js
+  435  git push origin task/1 
+  436  git pull origin task/1 --rebase
+  437  code task1.js
+  438  git add task1.js
+  439  git rebase --continue
+  440  ls
+  441  cd siphindiwe-zungu-219-level-1-programming-katas-javascript
+  442  rm /c/Users/Siphi/siphindiwe-zungu-219-level-1-programming-katas-javascript/.git/.COMMIT_EDITMSG.swp
+  443  git commit
+  444  git status
+  445  git rebase --continue
+  446  git push origin task/1 --force
+  447  cat task1.js
+  448  git checkout task/2
+  449  git push origin task/2
+  450  code task2.js
+  451  git pull origin task/2 --rebase
+  452  code task2.js
+  453  git add task2.js
+  454  git rebase --continue
+  455  git push origin task/2
+  456  cat task2.js
+  457  git checkout task/3
+  458  git push origin task/3
+  459  git checkout task/4
+  460  git push origin task/4
+  461  git checkout task/5
+  462  git push origin task/5
+  463  git checkout task/6
+  464  git push origin task/6
+  465  git checkout task/7
+  466  cat task7.js
+  467  git push origin task/7
+  468  git checkout main
+  469  git pull origin main
+  470  git merge task/1
+  471  git add .
+  472  git commit -m "Merging branch Task/1 into main"
+  473  git push origin main
+  474  git checkout main
+  475  git pull
+  476  git checkout -b task/1
+  477  ls
+  478  git clone Umuzi-org/siphindiwe-zungu-223-person-javascript.git
+  479  git clone https://github.com/Umuzi-org/siphindiwe-zungu-223-person-javascript.git
+  480  git clone https://github.com/Umuzi-org/siphindiwe-zungu-223-person-javascript.git
+  481  cd siphindiwe-zungu-223-person-javascript
+  482  cat person.js
+  483  code person.js
+  484  code person.js
+  485  git add .
+  486  cat person.js
+  487  git commit -m "Created an Interest method to include sentence format separately and removed the let greet variable to const"
+  488  git push origin personBranch
+  489  git reset Head~1
+  490  git reset TDD_Question_One.me animal.js tdd_question2.md tdd_question3.md tdd_question4.md tdd_question5.md tdd_question6.md
+  491  git reset TDD_Question_One.md
+  492  git add person.js
+  493  git commit -m "Created a method for interests sentence formatting called interests and changed let to const for greeting variable"
+  494  git push origin personBranch --force
+  495  ls
+  496  mkdir git-basic-exercises
+  497  cd git-basic-exercises
+  498  ls -a
+  499  rm -rf ./*
+  500  ls -a
+  501  ls
+  502  cd git-basic-exercises
+  503  ls
+  504  ls -a
+  505  rm -rf .git .gitignore
+  506  ls -a
+  507  git init
+  508  ls -a
+  509  git status
+  510  touch README.md
+  511  ls -a
+  512  git status
+  513  git log
+  514  git add .
+  515  git status
+  516  git commit -m "initial commit"
+  517  git log
+  518  q
+  519  git q
+  520  nano README.md
+  521  cat README.md
+  522  git status
+  523  git add .
+  524  git commit -m "second commit"
+  525  nano README.md
+  526  git commit -m "third commit"
+  527  git add .
+  528  git commit -m "third commit"
+  529  cat README.md
+  530  git log
+  531  git checkout bcebcb2e24ee435c2cf9b3f852f29be0f5a56134
+  532  cat README.md
+  533  git checkout main
+  534  git checkout master
+  535  cat README.md
+  536  git branch milkshake-flavours
+  537  git branch
+  538  git checkout milkshake-flavours
+  539  nano milkshakes.md
+  540  git status
+  541  git add .
+  542  git commit -m "added initial flavours"
+  543  git log
+  544  git checkout master
+  545  git branch history
+  546  git checkout history
+  547  git log
+  548  git branch
+  549  history > history.txt
